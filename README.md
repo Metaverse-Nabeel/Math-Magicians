@@ -65,6 +65,8 @@
 - **[Setup with create-react-app]**
 - **[Setup linters for React/Redux]**
 - **[Made UI/UX of Calculator]**
+- **[Use of Big npm package]**
+- **[Basic Arthematic Operations of Calculator]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
