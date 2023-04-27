@@ -7,8 +7,11 @@
 /* App */
 .app {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   margin-top: 5%;
+  gap: 50px;
 }
 
 /* Calculator Body */
@@ -60,4 +63,34 @@
 
 .calcZero {
   width: 50%;
+}
+
+.quotesBody {
+  width: 75vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 4px dotted #f17b1b;
+  padding: 10px;
+}
+
+.quotesCategory {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 0.1px;
+  text-transform: capitalize;
+}
+
+.quoteStatement {
+  font-size: larger;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.quoteAuthor {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1rem;
+  font-style: italic;
 }
