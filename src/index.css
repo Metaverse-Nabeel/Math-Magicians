@@ -9,3 +9,15 @@
 body {
   font-family: "Ubuntu", sans-serif;
 }
+
+a {
+  text-decoration: none !important;
+  cursor: pointer;
+  color: black;
+}
+
+li {
+  text-decoration: none !important;
+  list-style-type: none;
+  cursor: pointer;
+}
