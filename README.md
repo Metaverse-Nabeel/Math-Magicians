@@ -69,6 +69,8 @@
 - **[Basic Arthematic Operations of Calculator]**
 - **[Ninjas API used to get Quotes]**
 - **[Animated Loader used from NPM packages]**
+- **[React-Router v6 NPM packages used for Routing in SPA]**
+- **[Full Website SPA]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
