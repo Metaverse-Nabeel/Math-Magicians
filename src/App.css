@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-/*Routes Styles*/
+/* Routes Styles */
 
 .routes {
   width: 100vw;
@@ -17,7 +17,7 @@
   margin-top: 3rem;
 }
 
-/*Logo & Navbar Items*/
+/* Logo & Navbar Items */
 
 .navbar {
   display: flex;
@@ -56,7 +56,7 @@
   color: #f17b1b;
 }
 
-/*Home Page Style*/
+/* Home Page Style */
 
 .home {
   display: flex;
@@ -80,7 +80,7 @@
   width: 70%;
 }
 
-/*Calculator Page Style*/
+/* Calculator Page Style */
 
 .calcPage {
   display: flex;
