@@ -120,6 +120,12 @@ npm run build
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
 
+👤 **Eldon Ratzlaff**
+
+- GitHub: [@githubhandle](https://github.com/Eldonratzlaff)
+- Twitter: [@EldonRatzlaff](https://twitter.com/EldonRatzlaff)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eldon-victor-ratzlaff-koop-b19b2924a/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
