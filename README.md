@@ -71,6 +71,7 @@
 - **[Animated Loader used from NPM packages]**
 - **[React-Router v6 NPM packages used for Routing in SPA]**
 - **[Full Website SPA]**
+- **[Snapshot and Unit Testing using Jest & React Testing Library]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,6 +119,12 @@ npm run build
 - GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
+
+👤 **Eldon Ratzlaff**
+
+- GitHub: [@githubhandle](https://github.com/Eldonratzlaff)
+- Twitter: [@EldonRatzlaff](https://twitter.com/EldonRatzlaff)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eldon-victor-ratzlaff-koop-b19b2924a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
