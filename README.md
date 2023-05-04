@@ -71,6 +71,7 @@
 - **[Animated Loader used from NPM packages]**
 - **[React-Router v6 NPM packages used for Routing in SPA]**
 - **[Full Website SPA]**
+- **[Snapshot and Unit Testing using Jest & React Testing Library]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
